@@ -1,0 +1,114 @@
+{
+  "8005": {
+    "TOP": 32,
+    "JUNGLE": 23,
+    "MIDDLE": 11,
+    "BOTTOM": 30,
+    "UTILITY": 3
+  },
+  "8008": {
+    "TOP": 18,
+    "JUNGLE": 5,
+    "MIDDLE": 11,
+    "BOTTOM": 66
+  },
+  "8010": {
+    "TOP": 31,
+    "JUNGLE": 48,
+    "MIDDLE": 13,
+    "BOTTOM": 8,
+    "UTILITY": 1
+  },
+  "8021": {
+    "TOP": 13,
+    "JUNGLE": 51,
+    "MIDDLE": 8,
+    "BOTTOM": 27,
+    "UTILITY": 1
+  },
+  "8112": {
+    "TOP": 12,
+    "JUNGLE": 11,
+    "MIDDLE": 52,
+    "BOTTOM": 2,
+    "UTILITY": 24
+  },
+  "8128": {
+    "TOP": 2,
+    "JUNGLE": 68,
+    "MIDDLE": 6,
+    "BOTTOM": 12,
+    "UTILITY": 11
+  },
+  "8214": {
+    "TOP": 5,
+    "JUNGLE": 3,
+    "MIDDLE": 9,
+    "BOTTOM": 4,
+    "UTILITY": 79
+  },
+  "8229": {
+    "TOP": 10,
+    "JUNGLE": 2,
+    "MIDDLE": 30,
+    "BOTTOM": 33,
+    "UTILITY": 25
+  },
+  "8230": {
+    "TOP": 31,
+    "JUNGLE": 26,
+    "MIDDLE": 38,
+    "BOTTOM": 4,
+    "UTILITY": 1
+  },
+  "8351": {
+    "JUNGLE": 2,
+    "BOTTOM": 1,
+    "UTILITY": 96
+  },
+  "8360": {
+    "TOP": 13,
+    "JUNGLE": 3,
+    "MIDDLE": 18,
+    "BOTTOM": 2,
+    "UTILITY": 64
+  },
+  "8369": {
+    "TOP": 7,
+    "JUNGLE": 35,
+    "MIDDLE": 40,
+    "BOTTOM": 17,
+    "UTILITY": 2
+  },
+  "8437": {
+    "TOP": 85,
+    "JUNGLE": 3,
+    "MIDDLE": 9,
+    "BOTTOM": 1,
+    "UTILITY": 3
+  },
+  "8439": {
+    "TOP": 5,
+    "JUNGLE": 8,
+    "MIDDLE": 4,
+    "UTILITY": 83
+  },
+  "8465": {
+    "JUNGLE": 2,
+    "UTILITY": 97
+  },
+  "8992": {
+    "TOP": 14,
+    "JUNGLE": 3,
+    "MIDDLE": 33,
+    "BOTTOM": 42,
+    "UTILITY": 8
+  },
+  "9923": {
+    "TOP": 14,
+    "JUNGLE": 36,
+    "MIDDLE": 15,
+    "BOTTOM": 6,
+    "UTILITY": 28
+  }
+}
