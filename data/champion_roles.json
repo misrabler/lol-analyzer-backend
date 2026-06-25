@@ -1,0 +1,965 @@
+{
+  "Jayce": {
+    "TOP": 59,
+    "JUNGLE": 19,
+    "MIDDLE": 21,
+    "BOTTOM": 1
+  },
+  "Hecarim": {
+    "JUNGLE": 100
+  },
+  "Ryze": {
+    "TOP": 18,
+    "JUNGLE": 1,
+    "MIDDLE": 81,
+    "BOTTOM": 1
+  },
+  "Lux": {
+    "TOP": 1,
+    "MIDDLE": 30,
+    "BOTTOM": 41,
+    "UTILITY": 27
+  },
+  "Bard": {
+    "JUNGLE": 2,
+    "UTILITY": 98
+  },
+  "Yorick": {
+    "TOP": 96,
+    "JUNGLE": 1,
+    "MIDDLE": 2,
+    "UTILITY": 1
+  },
+  "Khazix": {
+    "JUNGLE": 100
+  },
+  "Akali": {
+    "TOP": 30,
+    "MIDDLE": 69
+  },
+  "Kennen": {
+    "TOP": 66,
+    "MIDDLE": 28,
+    "BOTTOM": 6,
+    "UTILITY": 1
+  },
+  "Pantheon": {
+    "TOP": 33,
+    "JUNGLE": 15,
+    "MIDDLE": 14,
+    "UTILITY": 37
+  },
+  "Jax": {
+    "TOP": 84,
+    "JUNGLE": 10,
+    "MIDDLE": 3,
+    "BOTTOM": 1,
+    "UTILITY": 2
+  },
+  "Poppy": {
+    "TOP": 34,
+    "JUNGLE": 11,
+    "MIDDLE": 6,
+    "UTILITY": 48
+  },
+  "Syndra": {
+    "TOP": 2,
+    "MIDDLE": 78,
+    "BOTTOM": 19,
+    "UTILITY": 2
+  },
+  "Vayne": {
+    "TOP": 54,
+    "JUNGLE": 2,
+    "MIDDLE": 5,
+    "BOTTOM": 39
+  },
+  "Nautilus": {
+    "JUNGLE": 1,
+    "UTILITY": 98
+  },
+  "Vladimir": {
+    "TOP": 25,
+    "MIDDLE": 62,
+    "BOTTOM": 13
+  },
+  "LeeSin": {
+    "TOP": 2,
+    "JUNGLE": 93,
+    "MIDDLE": 3,
+    "UTILITY": 2
+  },
+  "Belveth": {
+    "TOP": 3,
+    "JUNGLE": 94,
+    "MIDDLE": 3,
+    "UTILITY": 1
+  },
+  "Sivir": {
+    "MIDDLE": 2,
+    "BOTTOM": 98
+  },
+  "Nami": {
+    "UTILITY": 100
+  },
+  "Lissandra": {
+    "TOP": 12,
+    "JUNGLE": 1,
+    "MIDDLE": 82,
+    "BOTTOM": 3,
+    "UTILITY": 2
+  },
+  "Zeri": {
+    "TOP": 1,
+    "JUNGLE": 4,
+    "MIDDLE": 3,
+    "BOTTOM": 92
+  },
+  "Kaisa": {
+    "TOP": 1,
+    "JUNGLE": 1,
+    "MIDDLE": 2,
+    "BOTTOM": 96
+  },
+  "Thresh": {
+    "MIDDLE": 2,
+    "BOTTOM": 1,
+    "UTILITY": 97
+  },
+  "TwistedFate": {
+    "TOP": 8,
+    "JUNGLE": 1,
+    "MIDDLE": 76,
+    "BOTTOM": 7,
+    "UTILITY": 8
+  },
+  "Seraphine": {
+    "TOP": 1,
+    "MIDDLE": 3,
+    "BOTTOM": 41,
+    "UTILITY": 55
+  },
+  "Senna": {
+    "BOTTOM": 77,
+    "UTILITY": 22
+  },
+  "Urgot": {
+    "TOP": 93,
+    "JUNGLE": 1,
+    "MIDDLE": 5,
+    "BOTTOM": 1
+  },
+  "Graves": {
+    "TOP": 1,
+    "JUNGLE": 98,
+    "MIDDLE": 1
+  },
+  "Annie": {
+    "TOP": 9,
+    "MIDDLE": 81,
+    "BOTTOM": 2,
+    "UTILITY": 7
+  },
+  "Jhin": {
+    "MIDDLE": 1,
+    "BOTTOM": 98,
+    "UTILITY": 1
+  },
+  "Anivia": {
+    "TOP": 24,
+    "JUNGLE": 1,
+    "MIDDLE": 45,
+    "BOTTOM": 2,
+    "UTILITY": 28
+  },
+  "Nasus": {
+    "TOP": 30,
+    "JUNGLE": 45,
+    "MIDDLE": 23,
+    "UTILITY": 1
+  },
+  "Karma": {
+    "TOP": 4,
+    "MIDDLE": 3,
+    "BOTTOM": 1,
+    "UTILITY": 92
+  },
+  "Varus": {
+    "TOP": 34,
+    "MIDDLE": 2,
+    "BOTTOM": 63,
+    "UTILITY": 1
+  },
+  "Ahri": {
+    "TOP": 5,
+    "MIDDLE": 91,
+    "BOTTOM": 2,
+    "UTILITY": 1
+  },
+  "Cassiopeia": {
+    "TOP": 20,
+    "MIDDLE": 63,
+    "BOTTOM": 16,
+    "UTILITY": 1
+  },
+  "Rell": {
+    "TOP": 1,
+    "JUNGLE": 1,
+    "BOTTOM": 1,
+    "UTILITY": 98
+  },
+  "Yasuo": {
+    "TOP": 27,
+    "MIDDLE": 53,
+    "BOTTOM": 20
+  },
+  "Viego": {
+    "TOP": 4,
+    "JUNGLE": 89,
+    "MIDDLE": 5,
+    "BOTTOM": 1
+  },
+  "Viktor": {
+    "TOP": 3,
+    "MIDDLE": 85,
+    "BOTTOM": 12
+  },
+  "Neeko": {
+    "TOP": 4,
+    "JUNGLE": 2,
+    "MIDDLE": 13,
+    "BOTTOM": 4,
+    "UTILITY": 77
+  },
+  "Irelia": {
+    "TOP": 60,
+    "MIDDLE": 35,
+    "BOTTOM": 4
+  },
+  "Jinx": {
+    "BOTTOM": 100
+  },
+  "Zed": {
+    "TOP": 13,
+    "JUNGLE": 8,
+    "MIDDLE": 77,
+    "BOTTOM": 1,
+    "UTILITY": 1
+  },
+  "Caitlyn": {
+    "TOP": 1,
+    "MIDDLE": 3,
+    "BOTTOM": 95
+  },
+  "Braum": {
+    "UTILITY": 100
+  },
+  "Renekton": {
+    "TOP": 95,
+    "MIDDLE": 5
+  },
+  "MonkeyKing": {
+    "TOP": 21,
+    "JUNGLE": 77,
+    "MIDDLE": 1,
+    "BOTTOM": 1,
+    "UTILITY": 1
+  },
+  "Gnar": {
+    "TOP": 97,
+    "JUNGLE": 1,
+    "MIDDLE": 2,
+    "BOTTOM": 1
+  },
+  "Talon": {
+    "TOP": 3,
+    "JUNGLE": 83,
+    "MIDDLE": 14
+  },
+  "Galio": {
+    "TOP": 5,
+    "MIDDLE": 84,
+    "UTILITY": 10
+  },
+  "Ambessa": {
+    "TOP": 63,
+    "JUNGLE": 30,
+    "MIDDLE": 7
+  },
+  "Zac": {
+    "TOP": 19,
+    "JUNGLE": 53,
+    "MIDDLE": 21,
+    "UTILITY": 6
+  },
+  "KogMaw": {
+    "TOP": 4,
+    "MIDDLE": 16,
+    "BOTTOM": 80,
+    "UTILITY": 1
+  },
+  "Lulu": {
+    "TOP": 1,
+    "JUNGLE": 1,
+    "MIDDLE": 1,
+    "BOTTOM": 1,
+    "UTILITY": 96
+  },
+  "Nidalee": {
+    "TOP": 6,
+    "JUNGLE": 64,
+    "UTILITY": 29
+  },
+  "Karthus": {
+    "TOP": 4,
+    "JUNGLE": 37,
+    "MIDDLE": 3,
+    "BOTTOM": 55,
+    "UTILITY": 1
+  },
+  "Xerath": {
+    "TOP": 1,
+    "MIDDLE": 42,
+    "BOTTOM": 40,
+    "UTILITY": 17
+  },
+  "FiddleSticks": {
+    "TOP": 8,
+    "JUNGLE": 63,
+    "MIDDLE": 6,
+    "BOTTOM": 1,
+    "UTILITY": 22
+  },
+  "Alistar": {
+    "TOP": 1,
+    "JUNGLE": 2,
+    "UTILITY": 97
+  },
+  "XinZhao": {
+    "TOP": 31,
+    "JUNGLE": 54,
+    "MIDDLE": 14,
+    "UTILITY": 1
+  },
+  "Rengar": {
+    "TOP": 4,
+    "JUNGLE": 87,
+    "BOTTOM": 1,
+    "UTILITY": 8
+  },
+  "Olaf": {
+    "TOP": 69,
+    "JUNGLE": 18,
+    "MIDDLE": 6,
+    "BOTTOM": 7
+  },
+  "Naafiri": {
+    "TOP": 7,
+    "JUNGLE": 71,
+    "MIDDLE": 20,
+    "BOTTOM": 1,
+    "UTILITY": 1
+  },
+  "Brand": {
+    "TOP": 5,
+    "JUNGLE": 5,
+    "MIDDLE": 19,
+    "BOTTOM": 45,
+    "UTILITY": 26
+  },
+  "Sylas": {
+    "TOP": 7,
+    "JUNGLE": 35,
+    "MIDDLE": 51,
+    "BOTTOM": 1,
+    "UTILITY": 6
+  },
+  "Akshan": {
+    "TOP": 12,
+    "MIDDLE": 82,
+    "BOTTOM": 6
+  },
+  "Pyke": {
+    "JUNGLE": 1,
+    "MIDDLE": 4,
+    "BOTTOM": 1,
+    "UTILITY": 94
+  },
+  "Rumble": {
+    "TOP": 63,
+    "JUNGLE": 19,
+    "MIDDLE": 18,
+    "UTILITY": 1
+  },
+  "MasterYi": {
+    "TOP": 5,
+    "JUNGLE": 91,
+    "MIDDLE": 2,
+    "BOTTOM": 1,
+    "UTILITY": 1
+  },
+  "Veigar": {
+    "TOP": 5,
+    "MIDDLE": 44,
+    "BOTTOM": 47,
+    "UTILITY": 3
+  },
+  "Ezreal": {
+    "JUNGLE": 1,
+    "MIDDLE": 2,
+    "BOTTOM": 97,
+    "UTILITY": 1
+  },
+  "Janna": {
+    "JUNGLE": 1,
+    "MIDDLE": 1,
+    "UTILITY": 97
+  },
+  "Aurora": {
+    "TOP": 29,
+    "MIDDLE": 63,
+    "BOTTOM": 7,
+    "UTILITY": 1
+  },
+  "Leona": {
+    "UTILITY": 100
+  },
+  "Ekko": {
+    "TOP": 4,
+    "JUNGLE": 37,
+    "MIDDLE": 57,
+    "BOTTOM": 1,
+    "UTILITY": 1
+  },
+  "Samira": {
+    "TOP": 2,
+    "MIDDLE": 1,
+    "BOTTOM": 96
+  },
+  "Tryndamere": {
+    "TOP": 82,
+    "JUNGLE": 2,
+    "MIDDLE": 15
+  },
+  "Gragas": {
+    "TOP": 53,
+    "JUNGLE": 10,
+    "MIDDLE": 25,
+    "UTILITY": 11
+  },
+  "Smolder": {
+    "TOP": 4,
+    "MIDDLE": 17,
+    "BOTTOM": 78
+  },
+  "Rakan": {
+    "TOP": 1,
+    "JUNGLE": 1,
+    "MIDDLE": 1,
+    "BOTTOM": 1,
+    "UTILITY": 96
+  },
+  "Lucian": {
+    "TOP": 2,
+    "MIDDLE": 3,
+    "BOTTOM": 94
+  },
+  "Milio": {
+    "BOTTOM": 1,
+    "UTILITY": 99
+  },
+  "Lillia": {
+    "JUNGLE": 100
+  },
+  "Blitzcrank": {
+    "JUNGLE": 1,
+    "UTILITY": 98
+  },
+  "Swain": {
+    "TOP": 12,
+    "MIDDLE": 22,
+    "BOTTOM": 38,
+    "UTILITY": 28
+  },
+  "Kayn": {
+    "TOP": 6,
+    "JUNGLE": 93,
+    "MIDDLE": 1
+  },
+  "Fizz": {
+    "TOP": 6,
+    "JUNGLE": 16,
+    "MIDDLE": 76,
+    "UTILITY": 2
+  },
+  "Yunara": {
+    "MIDDLE": 1,
+    "BOTTOM": 98
+  },
+  "Chogath": {
+    "TOP": 67,
+    "JUNGLE": 12,
+    "MIDDLE": 17,
+    "BOTTOM": 2,
+    "UTILITY": 2
+  },
+  "Katarina": {
+    "TOP": 3,
+    "MIDDLE": 81,
+    "BOTTOM": 15
+  },
+  "Sona": {
+    "BOTTOM": 4,
+    "UTILITY": 95
+  },
+  "Azir": {
+    "TOP": 36,
+    "MIDDLE": 57,
+    "BOTTOM": 7
+  },
+  "Riven": {
+    "TOP": 55,
+    "JUNGLE": 6,
+    "MIDDLE": 37,
+    "BOTTOM": 2
+  },
+  "Draven": {
+    "TOP": 7,
+    "JUNGLE": 2,
+    "MIDDLE": 2,
+    "BOTTOM": 89
+  },
+  "Camille": {
+    "TOP": 37,
+    "JUNGLE": 3,
+    "MIDDLE": 1,
+    "UTILITY": 59
+  },
+  "Corki": {
+    "TOP": 5,
+    "JUNGLE": 1,
+    "MIDDLE": 21,
+    "BOTTOM": 73
+  },
+  "Zaahen": {
+    "TOP": 85,
+    "JUNGLE": 13,
+    "MIDDLE": 2
+  },
+  "RekSai": {
+    "TOP": 11,
+    "JUNGLE": 85,
+    "MIDDLE": 1,
+    "UTILITY": 3
+  },
+  "Zyra": {
+    "TOP": 1,
+    "JUNGLE": 25,
+    "MIDDLE": 3,
+    "BOTTOM": 48,
+    "UTILITY": 24
+  },
+  "Yone": {
+    "TOP": 48,
+    "JUNGLE": 1,
+    "MIDDLE": 49,
+    "BOTTOM": 2
+  },
+  "Malphite": {
+    "TOP": 83,
+    "JUNGLE": 7,
+    "MIDDLE": 7,
+    "BOTTOM": 2,
+    "UTILITY": 1
+  },
+  "Diana": {
+    "TOP": 3,
+    "JUNGLE": 54,
+    "MIDDLE": 40,
+    "BOTTOM": 3
+  },
+  "Elise": {
+    "TOP": 2,
+    "JUNGLE": 55,
+    "MIDDLE": 4,
+    "UTILITY": 39
+  },
+  "Sion": {
+    "TOP": 79,
+    "JUNGLE": 1,
+    "MIDDLE": 18,
+    "BOTTOM": 2,
+    "UTILITY": 1
+  },
+  "Udyr": {
+    "TOP": 7,
+    "JUNGLE": 87,
+    "MIDDLE": 1,
+    "BOTTOM": 4
+  },
+  "Garen": {
+    "TOP": 83,
+    "MIDDLE": 17
+  },
+  "Aatrox": {
+    "TOP": 56,
+    "JUNGLE": 39,
+    "MIDDLE": 4
+  },
+  "Darius": {
+    "TOP": 88,
+    "JUNGLE": 11,
+    "MIDDLE": 2
+  },
+  "Hwei": {
+    "TOP": 2,
+    "MIDDLE": 50,
+    "BOTTOM": 46,
+    "UTILITY": 3
+  },
+  "Mel": {
+    "TOP": 1,
+    "MIDDLE": 34,
+    "BOTTOM": 48,
+    "UTILITY": 17
+  },
+  "Tristana": {
+    "TOP": 2,
+    "MIDDLE": 16,
+    "BOTTOM": 83
+  },
+  "Fiora": {
+    "TOP": 87,
+    "MIDDLE": 3,
+    "BOTTOM": 6,
+    "UTILITY": 4
+  },
+  "Zilean": {
+    "TOP": 9,
+    "MIDDLE": 7,
+    "BOTTOM": 3,
+    "UTILITY": 80
+  },
+  "Shaco": {
+    "TOP": 4,
+    "JUNGLE": 82,
+    "UTILITY": 14
+  },
+  "Morgana": {
+    "TOP": 2,
+    "JUNGLE": 10,
+    "MIDDLE": 9,
+    "BOTTOM": 5,
+    "UTILITY": 74
+  },
+  "Sett": {
+    "TOP": 91,
+    "MIDDLE": 3,
+    "UTILITY": 5
+  },
+  "DrMundo": {
+    "TOP": 81,
+    "JUNGLE": 13,
+    "MIDDLE": 6
+  },
+  "JarvanIV": {
+    "TOP": 1,
+    "JUNGLE": 95,
+    "UTILITY": 4
+  },
+  "Skarner": {
+    "TOP": 3,
+    "JUNGLE": 55,
+    "UTILITY": 41
+  },
+  "TahmKench": {
+    "TOP": 22,
+    "JUNGLE": 1,
+    "MIDDLE": 2,
+    "BOTTOM": 8,
+    "UTILITY": 67
+  },
+  "Twitch": {
+    "TOP": 1,
+    "JUNGLE": 3,
+    "MIDDLE": 5,
+    "BOTTOM": 88,
+    "UTILITY": 3
+  },
+  "Yuumi": {
+    "UTILITY": 100
+  },
+  "Ornn": {
+    "TOP": 91,
+    "JUNGLE": 2,
+    "MIDDLE": 7,
+    "UTILITY": 1
+  },
+  "Briar": {
+    "TOP": 24,
+    "JUNGLE": 70,
+    "MIDDLE": 5
+  },
+  "Ziggs": {
+    "MIDDLE": 16,
+    "BOTTOM": 83,
+    "UTILITY": 1
+  },
+  "Shyvana": {
+    "TOP": 5,
+    "JUNGLE": 95
+  },
+  "Sejuani": {
+    "TOP": 29,
+    "JUNGLE": 49,
+    "MIDDLE": 5,
+    "BOTTOM": 1,
+    "UTILITY": 17
+  },
+  "Ivern": {
+    "TOP": 4,
+    "JUNGLE": 83,
+    "MIDDLE": 5,
+    "UTILITY": 7
+  },
+  "Nunu": {
+    "TOP": 1,
+    "JUNGLE": 84,
+    "MIDDLE": 13,
+    "UTILITY": 2
+  },
+  "Kindred": {
+    "TOP": 1,
+    "JUNGLE": 97,
+    "MIDDLE": 1,
+    "BOTTOM": 1
+  },
+  "Kalista": {
+    "TOP": 6,
+    "MIDDLE": 4,
+    "BOTTOM": 89
+  },
+  "Vi": {
+    "TOP": 1,
+    "JUNGLE": 97,
+    "MIDDLE": 1,
+    "UTILITY": 1
+  },
+  "MissFortune": {
+    "TOP": 1,
+    "MIDDLE": 1,
+    "BOTTOM": 97,
+    "UTILITY": 1
+  },
+  "Kayle": {
+    "TOP": 61,
+    "MIDDLE": 38,
+    "BOTTOM": 1
+  },
+  "Nilah": {
+    "TOP": 1,
+    "MIDDLE": 2,
+    "BOTTOM": 97,
+    "UTILITY": 1
+  },
+  "Quinn": {
+    "TOP": 40,
+    "JUNGLE": 42,
+    "MIDDLE": 14,
+    "BOTTOM": 3,
+    "UTILITY": 2
+  },
+  "Taliyah": {
+    "TOP": 4,
+    "JUNGLE": 20,
+    "MIDDLE": 53,
+    "BOTTOM": 4,
+    "UTILITY": 19
+  },
+  "Evelynn": {
+    "JUNGLE": 98,
+    "UTILITY": 2
+  },
+  "Teemo": {
+    "TOP": 87,
+    "JUNGLE": 8,
+    "BOTTOM": 1,
+    "UTILITY": 3
+  },
+  "Kled": {
+    "TOP": 93,
+    "MIDDLE": 5,
+    "BOTTOM": 1,
+    "UTILITY": 1
+  },
+  "Soraka": {
+    "TOP": 2,
+    "BOTTOM": 2,
+    "UTILITY": 96
+  },
+  "Xayah": {
+    "BOTTOM": 100
+  },
+  "KSante": {
+    "TOP": 92,
+    "MIDDLE": 7,
+    "UTILITY": 2
+  },
+  "Orianna": {
+    "TOP": 2,
+    "MIDDLE": 95,
+    "BOTTOM": 1,
+    "UTILITY": 2
+  },
+  "Nocturne": {
+    "TOP": 6,
+    "JUNGLE": 92,
+    "MIDDLE": 2
+  },
+  "Gwen": {
+    "TOP": 63,
+    "JUNGLE": 19,
+    "MIDDLE": 17,
+    "BOTTOM": 1,
+    "UTILITY": 1
+  },
+  "AurelionSol": {
+    "TOP": 5,
+    "JUNGLE": 4,
+    "MIDDLE": 37,
+    "BOTTOM": 54,
+    "UTILITY": 1
+  },
+  "Trundle": {
+    "TOP": 66,
+    "JUNGLE": 27,
+    "MIDDLE": 1,
+    "UTILITY": 6
+  },
+  "Qiyana": {
+    "TOP": 5,
+    "JUNGLE": 42,
+    "MIDDLE": 50,
+    "BOTTOM": 1,
+    "UTILITY": 2
+  },
+  "Zoe": {
+    "TOP": 10,
+    "JUNGLE": 2,
+    "MIDDLE": 43,
+    "UTILITY": 46
+  },
+  "Ashe": {
+    "BOTTOM": 98,
+    "UTILITY": 2
+  },
+  "Volibear": {
+    "TOP": 76,
+    "JUNGLE": 21,
+    "MIDDLE": 3
+  },
+  "Gangplank": {
+    "TOP": 94,
+    "MIDDLE": 6
+  },
+  "Leblanc": {
+    "TOP": 9,
+    "JUNGLE": 1,
+    "MIDDLE": 75,
+    "BOTTOM": 1,
+    "UTILITY": 15
+  },
+  "Singed": {
+    "TOP": 82,
+    "JUNGLE": 6,
+    "MIDDLE": 10,
+    "BOTTOM": 1,
+    "UTILITY": 2
+  },
+  "Shen": {
+    "TOP": 78,
+    "JUNGLE": 5,
+    "MIDDLE": 2,
+    "UTILITY": 15
+  },
+  "Mordekaiser": {
+    "TOP": 85,
+    "JUNGLE": 8,
+    "MIDDLE": 6
+  },
+  "Amumu": {
+    "JUNGLE": 44,
+    "UTILITY": 56
+  },
+  "Heimerdinger": {
+    "TOP": 44,
+    "JUNGLE": 2,
+    "MIDDLE": 21,
+    "BOTTOM": 25,
+    "UTILITY": 8
+  },
+  "Maokai": {
+    "TOP": 13,
+    "JUNGLE": 12,
+    "MIDDLE": 1,
+    "UTILITY": 75
+  },
+  "Aphelios": {
+    "MIDDLE": 1,
+    "BOTTOM": 98
+  },
+  "Velkoz": {
+    "TOP": 3,
+    "MIDDLE": 24,
+    "BOTTOM": 38,
+    "UTILITY": 34
+  },
+  "Vex": {
+    "TOP": 9,
+    "MIDDLE": 81,
+    "BOTTOM": 5,
+    "UTILITY": 4
+  },
+  "Kassadin": {
+    "TOP": 7,
+    "MIDDLE": 92
+  },
+  "Renata": {
+    "JUNGLE": 1,
+    "UTILITY": 99
+  },
+  "Warwick": {
+    "TOP": 35,
+    "JUNGLE": 63,
+    "MIDDLE": 3
+  },
+  "Illaoi": {
+    "TOP": 93,
+    "JUNGLE": 1,
+    "MIDDLE": 5,
+    "BOTTOM": 1,
+    "UTILITY": 1
+  },
+  "Taric": {
+    "JUNGLE": 15,
+    "BOTTOM": 1,
+    "UTILITY": 84
+  },
+  "Malzahar": {
+    "TOP": 11,
+    "MIDDLE": 86,
+    "BOTTOM": 3
+  },
+  "Rammus": {
+    "TOP": 5,
+    "JUNGLE": 90,
+    "UTILITY": 5
+  },
+  "Locke": {
+    "TOP": 14,
+    "JUNGLE": 16,
+    "MIDDLE": 66,
+    "BOTTOM": 2,
+    "UTILITY": 2
+  }
+}
