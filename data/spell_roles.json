@@ -1,0 +1,51 @@
+{
+  "1": {
+    "TOP": 3,
+    "MIDDLE": 9,
+    "BOTTOM": 87
+  },
+  "3": {
+    "TOP": 28,
+    "JUNGLE": 1,
+    "MIDDLE": 19,
+    "BOTTOM": 25,
+    "UTILITY": 27
+  },
+  "4": {
+    "TOP": 20,
+    "JUNGLE": 19,
+    "MIDDLE": 20,
+    "BOTTOM": 21,
+    "UTILITY": 20
+  },
+  "6": {
+    "TOP": 32,
+    "JUNGLE": 14,
+    "MIDDLE": 33,
+    "BOTTOM": 21
+  },
+  "7": {
+    "BOTTOM": 2,
+    "UTILITY": 98
+  },
+  "11": {
+    "JUNGLE": 100
+  },
+  "12": {
+    "TOP": 40,
+    "MIDDLE": 42,
+    "BOTTOM": 18
+  },
+  "14": {
+    "TOP": 35,
+    "JUNGLE": 3,
+    "MIDDLE": 32,
+    "BOTTOM": 1,
+    "UTILITY": 29
+  },
+  "21": {
+    "TOP": 2,
+    "MIDDLE": 3,
+    "BOTTOM": 95
+  }
+}
